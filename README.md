@@ -1,4 +1,3 @@
-# Vrinda-store-Analysis
 # 🏪 Vrinda Store Analysis Project  
 Welcome to the **Vrinda Store Analysis Project** using **Excel**!  
 This project leverages **Excel for data transformation and visualization** to provide valuable insights into sales performance, customer demographics, and order trends.  
